@@ -54,11 +54,11 @@ h2 {
 }
 
 h2 {
-  color: #e94560; /* bright accent */
+  color: #db6b0e; /* bright accent */
 }
 
 .content p {
-  color: #a8b2d8;
+  color: #db6b0e;
 }
 #interests {
   margin-top: 32px;
@@ -105,17 +105,17 @@ h2 {
   transform: translateY(-2px);
 }
 #interests h3 {
-  color: #e94560;
+  color: #db6b0e;
 }
 
 #interests li {
   background: #ffe8ec;
-  border-color: #e94560;
-  color: #e94560;
+  border-color: #db6b0e;
+  color:#db6b0e;
 }
 
 #interests li:hover {
-  background: #e94560;
+  background: #0cb4ca;
   color: #fff;
 }
 .sidebar-img {
