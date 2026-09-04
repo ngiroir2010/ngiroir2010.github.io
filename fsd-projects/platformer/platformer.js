@@ -43,6 +43,7 @@ createPlatform(1200, 100, 100, 20)
 createPlatform(900, 600, 50, 50, "red")
 createPlatform(670, 200, 30, 200)
 createPlatform(500, 400, 200, 20)
+createPlatform(800, 200, 200, 20, "#00000000")
 
 
 
@@ -57,7 +58,7 @@ createCollectable("steve", 500,350);
 
     
     // TODO 4 - Create Cannons
-    createCannon("top", 200, 500);
+    createCannon("top", 200, 2, 500, 2);
 createCannon("right", 775, 1500);
 createCannon("bottom" , 1200,1000);
 
